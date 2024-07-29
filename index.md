@@ -1,4 +1,4 @@
-- [[Abortion.md]]
+- [[Abortion]]
 	- #pro-choice
 	- #pro-life
 - Associates
