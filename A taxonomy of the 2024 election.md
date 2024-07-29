@@ -1,0 +1,163 @@
+- [[Abortion]]
+	- #pro-choice
+	- #pro-life
+- Associates
+	- #Jack-Welch
+	- #Rudy-Giuliani
+- Cabinet
+	- #cabinet-members
+	- #Mike-Pence
+- Campaign
+	- #fundraising
+	- #slogan
+- Career
+	- #business
+	- #politics
+- [[Census]]
+- Character
+	- #integrity
+	- #communication-skills
+	- #leadership-skills
+- [[Civil rights]]
+    - #Bill-of-Rights
+    - #LGBTQ
+	    - Don't Say "Gay"
+	- #social-justice
+	- #woke
+- [[Congress]]
+	- House of Representatives
+	- Senate
+- [[Constitution of the United States]]
+- [[Corruption]]
+- [[COVID-19]]
+- Courts
+- [[Crime]]
+    - #capital-punishment
+    - #drugs
+    - Justice Department
+    - #mass-incarceration
+    - #migrant-crime 
+    - Non-violent
+    - Violent
+- [[Economy]]
+    - #inequality
+    - #inflation
+    - #innovation
+    - Jobs
+        - #manufacturing
+        - #offshoring
+        - #tech
+        - #unions
+	- #basic-income
+    - [[Wages]]
+	    - #minimum-wage
+- [[Education]]
+	- #book-bans
+- [[Elections]]
+	- #2016-election
+		- #election-interference 
+	- #2020-election
+		- #election-denial
+	- #mail-in-voting
+- Electoral College
+- Endorsements
+- [[Entitlements]]
+	- #Medicare
+	- #Medicaid
+	- #Social-Security 
+	- #welfare
+- [[Environment]]
+	- #climate-change
+	- #EPA
+	- #EVs
+	- Water
+- #executive-orders
+- Failures
+	- #bankruptcy
+	- Criminal conviction
+	- #foreclosure
+	- #insurrection
+	- Re-election
+	- #scandal
+		- #Stormy-Daniels
+- Family
+	- Children
+	- Father
+	- Mother
+	- Siblings
+	- Wife
+- [[Foreign policy]]
+    - #China
+    - #Hamas
+    - #Iran
+    - #Israel
+    - #NATO
+    - #North-Korea
+    - #Russia
+    - #tariffs
+- [[Healthcare]]
+	- #health-insurance
+- [[Immigration]]
+	- Illegal
+		- #border-wall 
+	- Legal
+- [[Impeachment]]
+- [[Issues]]
+- [[Media]]
+	- Censorship
+	- #Fox-News
+	- #NPR
+	- Portrayal
+	- Relationship
+- #myths
+- [[National debt]]
+- [[National security]]
+	- #military
+	- #terrorism
+- [[Organizations]]
+	- #ACLU
+	- #Heritage-Foundation
+		- #project-2025
+- Party
+	- #Democrat
+	- #Republican
+- [[Political rivalries]]
+	- #Hillary-Clinton
+- Polls
+- Popular vote
+- [[Populism]]
+- [[Postal Service]]
+- [[Presidents]]
+	- #Biden
+	- #Carter
+	- #Obama
+	- #Reagan
+	- #Trump
+- Promises
+- #quotes
+- Race
+- Regulation
+- Running mate / VP
+- Separation of church and state
+	- #religion
+	- #Christianity
+- Slogans
+	- #lock-her-up
+- Successes
+	- #The-Apprentice
+	- Presidential Election of 2016
+- Supreme Court
+	- #SCOTUS-appointees
+	- #SCOTUS-decisions
+	- Relationship
+- [[Taxes]]
+	- #capital-gains
+	- #income-tax
+		- Corporate
+		- Personal
+	- #propety-tax
+	- #sales-tax
+	- #tax-cuts
+- Vetos
+- VP
+- [[War]]

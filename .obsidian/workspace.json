@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "77fa561d62ef22c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "ef175d795875b04e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "22de849893b50015",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A taxonomy of the 2024 election.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b340bab8e0b15c08",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5d5bb8ea7180e54",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d00c0ec36d11ab63",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0076f00f725fb862",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e70ef29160662f8f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9e45b11613142b5c",
+    "type": "split",
+    "children": [
+      {
+        "id": "986b9039da417562",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7be9340151ca0bd0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "A taxonomy of the 2024 election.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2e363544d98a5747",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "A taxonomy of the 2024 election.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "24c0a744b2984c46",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "49f0a70b9efc4b3c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "A taxonomy of the 2024 election.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "22de849893b50015",
+  "lastOpenFiles": [
+    "Issues.md",
+    "Impeachment.md",
+    "Immigration.md",
+    "Healthcare.md",
+    "Foreign policy.md",
+    "Environment.md",
+    "Elections.md",
+    "Constitution of the United States.md",
+    "Congress.md",
+    "Civil rights.md",
+    "Census.md",
+    "Abortion.md",
+    "A taxonomy of the 2024 election.md",
+    "Presidents.md",
+    "electionFAQs",
+    "obsidian-git/styles.css",
+    "obsidian-git/main.js",
+    "obsidian-git/manifest.json",
+    "obsidian-git",
+    "obsidian-git-2.25.0.zip",
+    "Education.md",
+    "Economy.md",
+    "Crime.md",
+    "COVID-19.md",
+    "Corruption.md",
+    "National debt.md",
+    "National security.md",
+    "Organizations.md",
+    "Political rivalries.md",
+    "Populism.md",
+    "Postal Service.md",
+    "Media.md"
+  ]
+}
